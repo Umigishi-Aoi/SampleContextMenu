@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SampleContextMenu</string>
+    <string name="text_view">コンテキストメニューを選択してください</string>
+    <string-array name="planet_list">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string name="mercury_title">Mercury</string>
+    <string name="venus_title">Venus</string>
+    <string name="earth_title">Earth</string>
+    <string name="mars_title">Mars</string>
+    <string name="jupiter_title">Jupiter</string>
+    <string name="saturn_title">Saturn</string>
+    <string name="uranus_title">Uranus</string>
+    <string name="neptune_title">Neptune</string>
+    <string name="context_menu_title">翻訳</string>
+    <string name="english">English</string>
+    <string name="japanese">日本語</string>
+    <string name="mercury">水星</string>
+    <string name="venus">金星</string>
+    <string name="earth">地球</string>
+    <string name="mars">火星</string>
+    <string name="jupiter">木星</string>
+    <string name="saturn">土星</string>
+    <string name="uranus">天王星</string>
+    <string name="neptune">海王星</string>
+</resources>
